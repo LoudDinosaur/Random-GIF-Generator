@@ -1,5 +1,5 @@
 # Random-GIF-Generator
-This React application allows users to fetch and search for random GIFs using the Giphy API. The project uses a custom hook useGif for handling API requests and Axios for HTTP calls. The design is clean and responsive, styled with Tailwind CSS.
+This React application allows users to fetch and search for random GIFs using the Giphy API. The project uses a custom hook **useGif** for handling API requests and Axios for HTTP calls. The design is clean and responsive, styled with Tailwind CSS.
 
 
 # ✨ Features
